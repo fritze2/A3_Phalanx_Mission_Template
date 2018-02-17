@@ -67,3 +67,8 @@ class sector {
     class titleTextSector{};
     class watchSector{};
 };
+class medical {
+	file = "f\medical";
+	class clientMedical{};
+	class reviveTimer{};
+};
